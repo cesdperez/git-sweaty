@@ -16807,5 +16807,31 @@
     "start_date_local": "2026-03-20T15:11:34Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 5184.8,
+    "elevation_gain": 30.0,
+    "id": "17799991084",
+    "moving_time": 1745.0,
+    "name": "On + Lightmile",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-21T10:09:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17803465364",
+    "moving_time": 4185.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-03-21T13:51:47Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
