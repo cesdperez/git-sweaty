@@ -16963,5 +16963,18 @@
     "start_date_local": "2026-03-31T19:28:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 47718.0,
+    "elevation_gain": 76.0,
+    "id": "17940399550",
+    "moving_time": 6763.0,
+    "name": "New Bike Day \ud83e\udd79",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-01T16:59:44Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
