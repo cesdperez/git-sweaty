@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T15:29:13.510503+00:00",
+  "generated_at": "2026-04-08T15:29:26.008099+00:00",
   "years": {
     "2020": {
       "Run": {
@@ -10719,6 +10719,24 @@
           "distance": 47718.0,
           "elevation_gain": 76.0,
           "moving_time": 6763.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "18016833183"
+          ],
+          "count": 1,
+          "distance": 35795.2,
+          "elevation_gain": 0.0,
+          "moving_time": 4682.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18016843811"
+          ],
+          "count": 1,
+          "distance": 52295.3,
+          "elevation_gain": 108.0,
+          "moving_time": 6146.0
         }
       },
       "Run": {
@@ -11378,6 +11396,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1976.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18017570434"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 556.0
         }
       },
       "Workout": {
