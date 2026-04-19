@@ -17288,5 +17288,44 @@
     "start_date_local": "2026-04-18T10:13:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18163143596",
+    "moving_time": 616.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-18T21:40:57Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 10370.8,
+    "elevation_gain": 27.0,
+    "id": "18167370222",
+    "moving_time": 2727.0,
+    "name": "\ud83c\udfc1 Veldhoven 10(.3)k",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T09:00:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 7308.8,
+    "elevation_gain": 21.0,
+    "id": "18171607864",
+    "moving_time": 1441.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-19T14:02:41Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
