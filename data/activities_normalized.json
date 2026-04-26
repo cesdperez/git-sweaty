@@ -17405,5 +17405,18 @@
     "start_date_local": "2026-04-24T14:05:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-25",
+    "distance": 64361.7,
+    "elevation_gain": 119.0,
+    "id": "18256120491",
+    "moving_time": 8955.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-25T16:45:09Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
