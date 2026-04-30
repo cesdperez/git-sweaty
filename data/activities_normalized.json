@@ -17470,5 +17470,31 @@
     "start_date_local": "2026-04-28T23:24:46Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 25894.6,
+    "elevation_gain": 0.0,
+    "id": "18308755147",
+    "moving_time": 3602.0,
+    "name": "Evening Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-29T18:10:03Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18309518199",
+    "moving_time": 554.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-04-29T19:20:10Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
