@@ -17730,5 +17730,18 @@
     "start_date_local": "2026-05-12T07:07:00Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 24607.7,
+    "elevation_gain": 0.0,
+    "id": "18479585303",
+    "moving_time": 3311.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-12T17:58:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
