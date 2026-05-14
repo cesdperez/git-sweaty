@@ -17743,5 +17743,31 @@
     "start_date_local": "2026-05-12T17:58:30Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 6638.9,
+    "elevation_gain": 100.0,
+    "id": "18495088423",
+    "moving_time": 2320.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-13T19:30:15Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18495711481",
+    "moving_time": 556.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-13T22:28:32Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
