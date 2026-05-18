@@ -17821,5 +17821,70 @@
     "start_date_local": "2026-05-16T10:14:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 292.6,
+    "elevation_gain": 0.0,
+    "id": "18552649066",
+    "moving_time": 255.0,
+    "name": "Bilzen 111 - T1",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-17T10:37:51Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 1003.3,
+    "elevation_gain": 3.1,
+    "id": "18552649115",
+    "moving_time": 1272.0,
+    "name": "\ud83c\udfc1 Bilzen 111 - Swim",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-17T10:16:39Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 229.9,
+    "elevation_gain": 0.0,
+    "id": "18552649149",
+    "moving_time": 150.0,
+    "name": "Bilzen 111 - T2",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-17T14:28:28Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 9961.9,
+    "elevation_gain": 0.0,
+    "id": "18552649150",
+    "moving_time": 3138.0,
+    "name": "\ud83c\udfc1 Bilzen 111 - Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T14:32:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 102556.0,
+    "elevation_gain": 247.6,
+    "id": "18552649266",
+    "moving_time": 12821.0,
+    "name": "\ud83c\udfc1 Bilzen 111 - Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-17T10:46:56Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
