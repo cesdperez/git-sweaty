@@ -17951,5 +17951,83 @@
     "start_date_local": "2026-05-23T10:15:30Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18638965138",
+    "moving_time": 560.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-24T19:58:05Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 43.3,
+    "elevation_gain": 0.0,
+    "id": "18649485316",
+    "moving_time": 36.0,
+    "name": "Lunch Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-25T12:04:23Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 967.7,
+    "elevation_gain": 0.0,
+    "id": "18649485326",
+    "moving_time": 1288.0,
+    "name": "\ud83c\udfc1 Theta 1/4 triathlon - Swimming",
+    "raw_activity_type": "Swim",
+    "raw_type": "Swim",
+    "start_date_local": "2026-05-25T10:19:34Z",
+    "type": "Swim",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 171.7,
+    "elevation_gain": 0.0,
+    "id": "18649485363",
+    "moving_time": 131.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-25T10:41:03Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 10293.0,
+    "elevation_gain": 0.0,
+    "id": "18649485393",
+    "moving_time": 3401.0,
+    "name": "\ud83c\udfc1 Theta 1/4 triathlon - Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T12:05:20Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 44006.4,
+    "elevation_gain": 39.4,
+    "id": "18649485418",
+    "moving_time": 4791.0,
+    "name": "\ud83c\udfc1 Theta 1/4 triathlon - Bike",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-25T10:44:30Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
