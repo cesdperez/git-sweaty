@@ -9827,6 +9827,20 @@
       "subtype": "Run",
       "type": "Run",
       "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 14,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-06",
+      "hour": 23,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20793,6 +20807,15 @@
           "distance": 31454.4,
           "elevation_gain": 93.0,
           "moving_time": 4328.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18810374748"
+          ],
+          "count": 1,
+          "distance": 31741.4,
+          "elevation_gain": 107.0,
+          "moving_time": 4169.0
         }
       },
       "Run": {
@@ -21967,6 +21990,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 598.0
+        },
+        "2026-06-06": {
+          "activity_ids": [
+            "18815732929"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 555.0
         }
       },
       "Workout": {
@@ -22013,7 +22045,7 @@
       }
     }
   },
-  "generated_at": "2026-06-05T15:59:41.507156+00:00",
+  "generated_at": "2026-06-07T15:30:02.562814+00:00",
   "other_bucket": "OtherSports",
   "repo": "cesdperez/git-sweaty",
   "source": "strava",
