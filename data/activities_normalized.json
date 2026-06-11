@@ -18289,5 +18289,31 @@
     "start_date_local": "2026-06-08T20:09:32Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 9797.5,
+    "elevation_gain": 842.0,
+    "id": "18868121694",
+    "moving_time": 15095.0,
+    "name": "Andorra #1 \ud83d\ude0d",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-10T13:04:28Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 2826.7,
+    "elevation_gain": 507.0,
+    "id": "18877304732",
+    "moving_time": 3950.0,
+    "name": "Andorra #2.1",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-11T12:17:08Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

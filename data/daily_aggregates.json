@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T16:16:40.658527+00:00",
+  "generated_at": "2026-06-11T16:23:15.382038+00:00",
   "years": {
     "2020": {
       "Run": {
@@ -10445,6 +10445,26 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1309.0
+        }
+      },
+      "Hike": {
+        "2026-06-10": {
+          "activity_ids": [
+            "18868121694"
+          ],
+          "count": 1,
+          "distance": 9797.5,
+          "elevation_gain": 842.0,
+          "moving_time": 15095.0
+        },
+        "2026-06-11": {
+          "activity_ids": [
+            "18877304732"
+          ],
+          "count": 1,
+          "distance": 2826.7,
+          "elevation_gain": 507.0,
+          "moving_time": 3950.0
         }
       },
       "IceSkate": {
