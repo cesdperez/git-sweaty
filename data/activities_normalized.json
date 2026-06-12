@@ -18315,5 +18315,18 @@
     "start_date_local": "2026-06-11T12:17:08Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-11",
+    "distance": 5545.6,
+    "elevation_gain": 149.0,
+    "id": "18880803142",
+    "moving_time": 7446.0,
+    "name": "Andorra #2.2",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-11T14:27:12Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

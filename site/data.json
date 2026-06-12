@@ -9862,6 +9862,13 @@
       "subtype": "Hike",
       "type": "Hike",
       "year": 2026
+    },
+    {
+      "date": "2026-06-11",
+      "hour": 14,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20323,12 +20330,13 @@
         },
         "2026-06-11": {
           "activity_ids": [
-            "18877304732"
+            "18877304732",
+            "18880803142"
           ],
-          "count": 1,
-          "distance": 2826.7,
-          "elevation_gain": 507.0,
-          "moving_time": 3950.0
+          "count": 2,
+          "distance": 8372.3,
+          "elevation_gain": 656.0,
+          "moving_time": 11396.0
         }
       },
       "IceSkate": {
@@ -22095,7 +22103,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T16:23:15.402480+00:00",
+  "generated_at": "2026-06-12T16:03:49.711698+00:00",
   "other_bucket": "OtherSports",
   "repo": "cesdperez/git-sweaty",
   "source": "strava",
