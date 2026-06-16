@@ -18354,5 +18354,31 @@
     "start_date_local": "2026-06-14T09:00:16Z",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 9360.3,
+    "elevation_gain": 549.0,
+    "id": "18931906502",
+    "moving_time": 13329.0,
+    "name": "Andorra #5 \u26c8\ufe0f",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-06-15T13:18:42Z",
+    "type": "Hike",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18933526762",
+    "moving_time": 4226.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-15T19:52:22Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]

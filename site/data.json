@@ -9883,6 +9883,20 @@
       "subtype": "TrailRun",
       "type": "TrailRun",
       "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 13,
+      "subtype": "Hike",
+      "type": "Hike",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-15",
+      "hour": 19,
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -20360,6 +20374,15 @@
           "distance": 2718.8,
           "elevation_gain": 255.0,
           "moving_time": 6680.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18931906502"
+          ],
+          "count": 1,
+          "distance": 9360.3,
+          "elevation_gain": 549.0,
+          "moving_time": 13329.0
         }
       },
       "IceSkate": {
@@ -22089,6 +22112,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 555.0
+        },
+        "2026-06-15": {
+          "activity_ids": [
+            "18933526762"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4226.0
         }
       },
       "Workout": {
@@ -22135,7 +22167,7 @@
       }
     }
   },
-  "generated_at": "2026-06-15T16:36:45.937871+00:00",
+  "generated_at": "2026-06-16T16:32:29.963427+00:00",
   "other_bucket": "OtherSports",
   "repo": "cesdperez/git-sweaty",
   "source": "strava",
